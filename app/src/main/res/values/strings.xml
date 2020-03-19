@@ -2,4 +2,8 @@
     <string name="app_name">FoodEx</string>
     <string name="sign_up">Sign Up</string>
     <string name="log_in">Log In</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="name_hint">Name</string>
+    <string name="password_hint">Password</string>
+    <string name="background_description">Background Image</string>
 </resources>
